@@ -41,4 +41,15 @@ The treasure trove of our project code and notebooks is at your disposal. You ca
 - Seaborn 🌌
 - Jupyter Notebooks 📓
 
+## Insights 📊
+
+![alt text](https://github.com/RRaghulRajkumar/Advertisement-Click-Prediction-with-Machine-Learning/blob/main/visualizations/image1.png)
+
+![alt text](https://github.com/RRaghulRajkumar/Advertisement-Click-Prediction-with-Machine-Learning/blob/main/visualizations/image2.png)
+
+![alt text](https://github.com/RRaghulRajkumar/Advertisement-Click-Prediction-with-Machine-Learning/blob/main/visualizations/image3.png)
+
+![alt text](https://github.com/RRaghulRajkumar/Advertisement-Click-Prediction-with-Machine-Learning/blob/main/visualizations/image4.png)
+
+![alt text](https://github.com/RRaghulRajkumar/Advertisement-Click-Prediction-with-Machine-Learning/blob/main/visualizations/image5.png)
 
